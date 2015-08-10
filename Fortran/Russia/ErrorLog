@@ -1,0 +1,38 @@
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(385) : comment 245 - This DO loop is redundant, as the start and finish values are equal, so the loop will execute once only
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(416) : comment 245 - This DO loop is redundant, as the start and finish values are equal, so the loop will execute once only
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(1394) : comment 1031 - This IF statement is redundant as it will always succeed
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(1601) : comment 1031 - This IF statement is redundant as it will always succeed
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(1730) : comment 1031 - This IF statement is redundant as it will always succeed
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(1780) : warning 179 - Comparing floating point quantities for equality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(1817) : warning 197 - Variable Q has been declared but not used
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(1819) : warning 197 - Variable OLD_PVE has been declared but not used
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(1823) : warning 242 - Variable DEBT_TEMP has been given a value but never used
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(1986) : warning 179 - Comparing floating point quantities for equality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(1999) : warning 179 - Comparing floating point quantities for equality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(2046) : comment 1031 - This IF statement is redundant as it will always succeed
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(2491) : comment 1031 - This IF statement is redundant as it will always succeed
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(2522) : comment 1031 - This IF statement is redundant as it will always succeed
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(2561) : warning 197 - Variable TEST_AGG has been declared but not used
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(2858) : warning 179 - Comparing floating point quantities for equality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(2862) : warning 179 - Comparing floating point quantities for inequality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(2863) : warning 179 - Comparing floating point quantities for equality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(2870) : warning 179 - Comparing floating point quantities for equality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(3054) : warning 179 - Comparing floating point quantities for inequality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(3123) : warning 179 - Comparing floating point quantities for equality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(3205) : warning 179 - Comparing floating point quantities for inequality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(3256) : warning 179 - Comparing floating point quantities for equality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(3355) : warning 179 - Comparing floating point quantities for inequality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(3399) : warning 179 - Comparing floating point quantities for equality may give misleading results
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(3683) : warning 197 - Variable COMPARE has been declared but not used
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(3683) : warning 197 - Variable TOT_INHERIT_ALL_AGE has been declared but not used
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(4117) : comment 245 - This DO loop is redundant, as the start and finish values are equal, so the loop will execute once only
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(4219) : warning 792 - Comma missing in format
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(4178) : warning 197 - Variable GET_INHERITANCES has been declared but not used
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(4612) : warning 792 - Comma missing in format
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(4670) : comment 241 - Only the first 6 character(s) of this constant will be used
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(5302) : warning 792 - Comma missing in format
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(5372) : warning 792 - Comma missing in format
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(5608) : warning 792 - Comma missing in format
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(4788) : warning 197 - Variable PHI has been declared but not used
+C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.F90(4789) : warning 197 - Variable GET_LIFETIME_UTILITY has been declared but not used
+Creating executable: C:\Users\Jeff Clawson\Dropbox\7CountryModel\Fortran\Russia\World_Model_Cleaned_for_NBER_7_14_Old_Taxes.EXE
