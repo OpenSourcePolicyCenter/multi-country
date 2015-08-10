@@ -37,7 +37,7 @@ CalcTPI=True #Activates the calculation of Time Path Iteration
 #NOTE: Graphing only works if CalcTPI is activated.
 Graphs=True #Activates graphing the graphs.
 CountryNamesON=True #Turns on labels for the graphs. Replaces "Country x" with proper names.
-PrintAgeParameters=False
+PrintAgeParameters=False #Prints age parameters
 
 if PrintAgeParameters==True:
     print "T =", T
